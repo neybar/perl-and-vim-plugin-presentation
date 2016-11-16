@@ -1,5 +1,5 @@
 # perl-and-vim-plugin-presentation
-Presentation files used during my "Perl &amp;&amp; Vim Plugins" talk
+Presentation files used during my "Perl Settings &amp;&amp; Vim Plugins" talk
 
 Presentation Slides can be found [here](https://docs.google.com/presentation/d/1fKc7TaApdE8xlBWjYA1lXm92gj08ojH_uM644VKpkn8/)
 
